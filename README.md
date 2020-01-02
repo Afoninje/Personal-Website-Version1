@@ -1,2 +1,4 @@
 # Portfolio-Website
-HTML/CSS/JS code of my personal portfolio
+Personal Portfolio Website code
+
+Written using HTML5,CCS3 and Javascript
